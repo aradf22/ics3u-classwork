@@ -1,0 +1,31 @@
+Vending Machine (Machine's Prespective)
+---------------------------------------
+Give chips to customer
+    Chek if money is inserted
+        Count amount entered
+    Determine what flavour chips to sell
+        Read the ID Number Entered
+    Determine if money entered is enough for selected flavour
+        Compare amount entered to amount needed
+        If Enough, drop chips
+        Else, write message saying "Insufficiant Funds" 
+        
+Cookie (How to fix the problem)
+---------------------------------
+Fit coockie into cup of milk
+    Make cookie smaller in size
+        Squish the cookie with your hands so cookie becomes smaller and can fit into the cup of milk
+        
+People who can't park (Technological Solution)
+----------------------------------------------
+Park properlly
+    Have the Arad sensor 3000 installed
+        Go to a local hardware or automobile store and purchase one for $3,000
+        Install the sensor on the bottom, sides, front, and back of your car
+    Scan your car and its surroundings
+        Checks to see where the lines are, and where your car is relative to them
+        Scans for other vehicles near by
+    Tells the driver what to do based off of information scanned
+        Parking job will be performed properly 
+        
+    
